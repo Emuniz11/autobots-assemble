@@ -1,3 +1,3 @@
 # autobots-assemble
 
-Assembly projects and references repo
+Assembly projects and references
